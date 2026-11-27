@@ -1,7 +1,6 @@
-# Hi, I'm Ashu 👋
+# Hi, I'm Ashitosh 👋
 
-🚀 Aspiring AI Engineer | Data Science Enthusiast
-🎯 Looking for a Machine Learning / Data Science internship
+Aspiring AI Engineer | Python, C++, SQL | Learning ML, DL & RAG
 
 ## 🔭 Currently
 - 📚 Learning Machine Learning, Deep Learning, RAG and model deployment
